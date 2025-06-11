@@ -1,23 +1,23 @@
-🖥️ Desktop Notifier App in Python
+🖥️ 𝘿𝙀𝙎𝙆𝙏𝙊𝙋 𝙉𝙊𝙏𝙄𝙁𝙄𝙀𝙍 𝘼𝙋𝙋 𝙄𝙉 𝙋𝙔𝙏𝙃𝙊𝙉 
 
 
 A simple Python-based desktop application that shows system notifications based on user input.
 
-🛠️ Tech Stack
+🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
 - Python
 - Tkinter– GUI creation
 - Plyer– For sending desktop notifications
 
 
-✨ Features
+✨ 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
 
 - 📌 Custom message input
 - ⏰ Notification after set time
 - 🖱️ Easy-to-use graphical interface
 
 
-🚀 How to Run
+🚀 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐔𝐍
 
 1. Clone the repository:
    
