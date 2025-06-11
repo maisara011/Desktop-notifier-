@@ -1,36 +1,52 @@
-🖥️ 𝘿𝙀𝙎𝙆𝙏𝙊𝙋 𝙉𝙊𝙏𝙄𝙁𝙄𝙀𝙍 𝘼𝙋𝙋 𝙄𝙉 𝙋𝙔𝙏𝙃𝙊𝙉 
+🖥️ Desktop Notification App (Python)
 
+A simple Python-based desktop notification tool to send system tray alerts. Useful for reminders, updates, or background alerts on your machine.
 
-A simple Python-based desktop application that shows system notifications based on user input.
+📌 Features
 
-🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+* Lightweight and minimal
+* Sends native system notifications
+* Customizable title, message, and timeout
+* Cross-platform (Windows, Linux, macOS)
 
-- Python
-- Tkinter– GUI creation
-- Plyer– For sending desktop notifications
+🛠️ Built With
 
+* Python 3
+* [plyer](https://github.com/kivy/plyer) – for sending notifications
+* (Optional) `tkinter` – if GUI is implemented
 
-✨ 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
-
-- 📌 Custom message input
-- ⏰ Notification after set time
-- 🖱️ Easy-to-use graphical interface
-
-
-🚀 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐔𝐍
+🚀 Installation
 
 1. Clone the repository:
-   
-   git clone https://github.com/maisara011/Desktop-notifier-.git
-   
-2. Navigate to the project folder:
-   bash
-   cd Desktop-notifier-
-   
-3. Install dependencies:
 
+   bash
+   git clone https://github.com/yourusername/desktop-notification-app.git
+   cd desktop-notification-app
+   
+
+2. Install dependencies:
+
+   bash
    pip install plyer
    
-4. Run the app:bash
-   python notifier.py
-   
+
+▶️ Usage
+
+Run the script:
+
+bash
+python notifier.py
+
+
+Example `notifier.py`:
+
+python
+from plyer import notification
+
+notification.notify(
+    title="Hello!",
+    message="This is your desktop notification.",
+    timeout=10
+)
+
+
