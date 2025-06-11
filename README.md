@@ -2,7 +2,7 @@
 
 A simple Python-based desktop application that shows system notifications based on user input.
 
-🛠️ Technologies Used
+🛠️ Tech Stack
 
 - Python
 - Tkinter– GUI creation
@@ -15,7 +15,6 @@ A simple Python-based desktop application that shows system notifications based 
 - ⏰ Notification after set time
 - 🖱️ Easy-to-use graphical interface
 
----
 
 🚀 How to Run
 
