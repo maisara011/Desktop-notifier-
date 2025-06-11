@@ -1,4 +1,5 @@
-🖥️ Desktop Notifier App
+🖥️ Desktop Notifier App in Python
+
 
 A simple Python-based desktop application that shows system notifications based on user input.
 
