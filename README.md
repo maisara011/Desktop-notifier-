@@ -20,9 +20,7 @@ A simple Python-based desktop notification tool to send system tray alerts. Usef
 1. Clone the repository:
 
    bash
-   git clone https://github.com/yourusername/desktop-notification-app.git
-   cd desktop-notification-app
-   
+   git clone https://github.com/maisara011/Desktop-notifier-.git
 
 2. Install dependencies:
 
