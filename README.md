@@ -25,16 +25,16 @@ Open your terminal and run the following command.
 1. *requests* :
 In case you want to fetch data from the web
 
-``` bash
+ bash
 pip install requests
-```
+
 
 2. *plyer* :
 For creating notifications on your PC
 
-```bash
+ bash
 pip install plyer
-```
+
 
 *Now that we have the packages, we are ready to import it in our python script.*
 
