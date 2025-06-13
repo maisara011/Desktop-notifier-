@@ -41,7 +41,8 @@ pip install plyer
 Once the packages are installed, you can import them into your Python script
 
 ```
-```python
+# code
+
 from plyer import notification
 import time
 
