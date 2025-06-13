@@ -38,26 +38,25 @@ For creating notifications on your PC:
 pip install plyer
 ```
 
-Once the packages are installed, you can import them into your Python script.
-````
+Once the packages are installed, you can import them into your Python script
 
-
+```
 ```python
 from plyer import notification
 import time
 
 title = "💡 Daily Motivation"
-
 message = "Believe in yourself. You’re braver than you think, stronger than you seem!"
 
 notification.notify(title=title,
                     message=message,
-                    app_icon=None, 
+                    app_icon=None,
                     timeout=10,
-                    toast=True) 
+                    toast=True)
 
 time.sleep(60 * 60)
-````
+```
+```
 
 
 
