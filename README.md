@@ -15,26 +15,6 @@ A simple Python-based desktop notification tool to send system tray alerts. Usef
 * [plyer](https://github.com/kivy/plyer) – for sending notifications
 * (Optional) `tkinter` – if GUI is implemented
 
-🚀 Installation
-
-1. Clone the repository:
-
-   bash
-   git clone https://github.com/maisara011/Desktop-notifier-.git
-
-2. Install dependencies:
-
-   bash
-   pip install plyer
-   
-
-▶️ Usage
-
-Run the script:
-
-bash
-python notifier.py
-
 
 Example `notifier.py`:
 
