@@ -16,27 +16,34 @@ A simple Python-based desktop notification tool to send system tray alerts. Usef
 * tkinter – if GUI is implemented
 
 
-## 📦 Installing required python packages
+## 
+````markdown
+📦 Installing Required Python Packages
 
-We need to download two important packages for this application.
+To run this application, you need to install two important Python packages.
 
-Open your terminal and run the following command.
+Open your terminal and run the following commands:
 
-1. *requests* :
-In case you want to fetch data from the web
+1. requests
 
- '''
+If you want to fetch data from the web:
+
+```bash
 pip install requests
- '''
+```
 
-2. *plyer* :
-For creating notifications on your PC
+2. plyer
 
- '''
+For creating notifications on your PC:
+
+```bash
 pip install plyer
- '''
+```
 
-*Now that we have the packages, we are ready to import it in our python script.*
+Once the packages are installed, you can import them into your Python script.
+````
+
+
 
 
 
