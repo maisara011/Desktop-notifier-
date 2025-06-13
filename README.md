@@ -43,7 +43,7 @@ Once the packages are installed, you can import them into your Python script
 # Coding
 
 ```markdown
-   python
+python
 from plyer import notification
 import time
 
