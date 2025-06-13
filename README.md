@@ -25,14 +25,14 @@ Open your terminal and run the following command.
 1. *requests* :
 In case you want to fetch data from the web
 
- '''bash
+ '''
 pip install requests
 
 
 2. *plyer* :
 For creating notifications on your PC
 
- '''bash
+ '''
 pip install plyer
 
 
