@@ -13,18 +13,7 @@ A simple Python-based desktop notification tool to send system tray alerts. Usef
 
 * Python 3
 * [plyer](https://github.com/kivy/plyer) – for sending notifications
-* (Optional) `tkinter` – if GUI is implemented
+* tkinter – if GUI is implemented
 
-
-Example `notifier.py`:
-
-python
-from plyer import notification
-
-notification.notify(
-    title="Hello!",
-    message="This is your desktop notification.",
-    timeout=10
-)
 
 
