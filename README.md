@@ -1,4 +1,4 @@
-🖥️ Desktop Notification App (Python)
+#🖥️ Desktop Notification App (Python)
 
 A simple Python-based desktop notification tool to send system tray alerts. Useful for reminders, updates, or background alerts on your machine.
 
