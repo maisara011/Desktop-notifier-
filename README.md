@@ -41,7 +41,6 @@ pip install plyer
 Once the packages are installed, you can import them into your Python script.
 ````
 
-##  Coding
 
 ```python
 from plyer import notification
