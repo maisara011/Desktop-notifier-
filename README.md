@@ -27,14 +27,14 @@ In case you want to fetch data from the web
 
 ``` bash
 pip install requests
-```
+```bash
 
 2. *plyer* :
 For creating notifications on your PC
 
 ```bash
 pip install plyer
-```
+```bash
 
 *Now that we have the packages, we are ready to import it in our python script.*
 
