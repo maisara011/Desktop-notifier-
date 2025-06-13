@@ -16,9 +16,7 @@ A simple Python-based desktop notification tool to send system tray alerts. Usef
 * tkinter – if GUI is implemented
 
 
-## 
-````markdown
-📦 Installing Required Python Packages
+## 📦 Installing Required Python Packages
 
 To run this application, you need to install two important Python packages.
 
