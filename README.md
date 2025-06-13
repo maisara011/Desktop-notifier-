@@ -41,6 +41,26 @@ pip install plyer
 Once the packages are installed, you can import them into your Python script.
 ```bash
 from plyer import notification
+ 
+# Coding
+
+
+
+from plyer import notification
+import time
+
+
+title = "💡 Daily Motivation"
+
+message = "Believe in yourself. You’re braver than you think, stronger than you seem!"
+
+notification.notify(title=title,
+                    message=message
+                    app_icon=None, 
+                    timeout=10,
+                    toast=True) 
+
+time.sleep(60 * 60)
 
 
 
