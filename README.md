@@ -42,7 +42,7 @@ Once the packages are installed, you can import them into your Python script
 
 # code
 
-from plyer import notification
+``` from plyer import notification
 import time
 
 title = "💡 Daily Motivation"
