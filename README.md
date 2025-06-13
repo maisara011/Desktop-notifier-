@@ -22,7 +22,7 @@ To run this application, you need to install two important Python packages.
 
 Open your terminal and run the following commands:
 
- # 1. requests
+ • 1. requests
 
 If you want to fetch data from the web:
 
@@ -30,7 +30,7 @@ If you want to fetch data from the web:
 pip install requests
 ```
 
- # 2. plyer
+ • 2. plyer
 
 For creating notifications on your PC:
 
